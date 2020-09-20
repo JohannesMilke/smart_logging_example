@@ -1,16 +1,16 @@
-# smart_logging_example
+# Log Everything - Smart Logging 
+We build a smart logger for our Flutter apps with which can log everything on different levels.
 
-A new Flutter project.
 
-## Getting Started
+Twitter: [@JohannesMilke](https://twitter.com/JohannesMilke "Twitter Johannes Milke")
 
-This project is a starting point for a Flutter application.
+Linkedin: [@JohannesMilke](https://linkedin.com/in/JohannesMilke "Linkedin Johannes Milke")
 
-A few resources to get you started if this is your first Flutter project:
+Medium: [@JohannesMilke](https://medium.com/@JohannesMilke "Medium Johannes Milke")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+##### [YouTube video](https://www.youtube.com/watch?v=GUi0n9c33os "Youtube Johannes Milke") where the *source code* is explained. [Subscribe to our YouTube channel.](http://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1 "YouTube Subscribe Johannes Milke")  
+<a href="https://www.youtube.com/watch?v=GUi0n9c33os&feature=player_embedded
+" target="_blank"><img src="http://img.youtube.com/vi/GUi0n9c33os/maxresdefault.jpg" 
+alt="Log Everything - Smart Logging  YouTube video" width="480" height="270" border="10" /></a>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### If you are new to Flutter and want to get started --> [Install Flutter](https://flutter.io/docs/get-started/install "Install Flutter").
